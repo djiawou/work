@@ -18,8 +18,8 @@ Make sure you have the following installed on your system:
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/RoshanSharma7/medical-store-management-system.git
-    cd medical-store-management-system
+    git clone https://github.com/work/medical.git
+    cd medical
     ```
 
 2. Create and activate a virtual environment (optional but recommended):
